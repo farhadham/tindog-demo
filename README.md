@@ -1,2 +1,1 @@
-# tindog-demo
-tindog demo website from Udemy bootcamp
+TinDog Starting Files
